@@ -95,5 +95,3 @@ contract FundMe {
         return i_owner;
     }
 }
-
-
